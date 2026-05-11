@@ -51,7 +51,7 @@
     "dist"
   ],
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.15.0",
     "lodash.debounce": "^4.0.8"
   }
 }
